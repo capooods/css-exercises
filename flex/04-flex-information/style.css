@@ -40,6 +40,6 @@ body {
 }
 
 .plants {
-  max-width: 200px;
   flex-wrap: wrap;
+  max-width: 200px;
 }
